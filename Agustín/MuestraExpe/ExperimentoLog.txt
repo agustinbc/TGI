@@ -1,0 +1,64 @@
+		Registro de experimento - Medición termogravimétrica
+
+		Información general:
+		
+		Autor:Agustín
+		Fecha: 2019/6/6
+		Hora: 13h56m
+		Muestra: Muestra
+		Descripción: Agustín
+		Número de subexperimentos: 2
+		
+		Variables de control:
+		
+		Pr: 0.05
+		In: 0.0
+		De: 2.0
+		
+		Maximo tiempo de apertura: 4.0
+		Apertura mínima de control: 0.1
+		Derivada máxima de subida/bajada: 0.8
+		
+		Subexperimentos:
+				N°:1
+	Tiempo total: 30.0
+	Paso de tiempo: 2.0
+	Temperatura inicial: 0.0
+	Temperatura final: 0.0
+	Presión inicial: 0.0
+	Presión final: 0.0
+	Flujo He inicial: 0.0
+	Flujo H inicial: 0.0
+	Flujo N inicial: 0.0
+	Flujo He final 0.0
+	Flujo H final: 0.0
+	Flujo N final: 0.0
+	Válvula Flujo 1 0
+	Válvula Flujo 2 0
+	Válvula Flujo 3 0
+	Válvula  G-V0
+	Válvula  G-H0
+	Válvula  H-V0
+	Diccionario de condicion de salida:  {'t': [1], 'T': [0, 0.0], 'p': [0, 0.0], 'dp/dt': [0, 0.0], 'dT/dt': [0, 0.0], 'dm/dt': [0, 0.0]}
+
+N°:2
+	Tiempo total: 30.0
+	Paso de tiempo: 2.0
+	Temperatura inicial: 0.0
+	Temperatura final: 0.0
+	Presión inicial: 0.0
+	Presión final: 0.0
+	Flujo He inicial: 0.0
+	Flujo H inicial: 0.0
+	Flujo N inicial: 0.0
+	Flujo He final 0.0
+	Flujo H final: 0.0
+	Flujo N final: 0.0
+	Válvula Flujo 1 0
+	Válvula Flujo 2 0
+	Válvula Flujo 3 0
+	Válvula  G-V0
+	Válvula  G-H0
+	Válvula  H-V0
+	Diccionario de condicion de salida:  {'t': [1], 'T': [0, 0.0], 'p': [0, 0.0], 'dp/dt': [0, 0.0], 'dT/dt': [0, 0.0], 'dm/dt': [0, 0.0]}
+
